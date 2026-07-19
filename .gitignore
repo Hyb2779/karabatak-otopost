@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.local
+bot/venv/
+bot/__pycache__/
+*.log
+*.bak

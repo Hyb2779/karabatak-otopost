@@ -1,0 +1,4 @@
+# İsteğe bağlı: kriptografi hızlandırması (mesaj şifreleme/çözme ~3x daha hızlı)
+# Eğer 'pip install cryptg' hata verirse ATLAYIN — bot bu olmadan da çalışır.
+# Hata genelde C derleyici eksikliğindendir: sudo apt install build-essential python3-dev
+cryptg==0.4.0
